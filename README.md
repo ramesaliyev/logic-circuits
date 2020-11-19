@@ -1,0 +1,1 @@
+Exercises of Logic Circuits Lecture, implemented with [Digital](https://github.com/hneemann/Digital).
